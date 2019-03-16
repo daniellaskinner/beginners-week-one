@@ -1,0 +1,19 @@
+.cheese-body {
+  padding: 50px;
+  margin: auto;
+}
+#first-parag {
+  color: green;
+}
+
+#pepper {
+  color: red;
+}
+
+.new-colour {
+  color: rgb(150, 200, 50, 0.7);
+  text-align: center;
+  text-decoration-style: wavy;
+  border: 5px double dashed firebrick;
+  font-family: sans-serif;
+}
